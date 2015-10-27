@@ -12,11 +12,6 @@
 bin/
 gen/
 
-# Gradle files
-.gradle/
-build/
-/*/build/
-
 # Local configuration file (sdk path, etc)
 local.properties
 
@@ -30,7 +25,10 @@ proguard/
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
-/build
+
+# Gradle files
+.gradle/
+build/
 
 # Misc
 .DS_Store
