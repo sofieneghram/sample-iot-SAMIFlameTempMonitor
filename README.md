@@ -1,3 +1,5 @@
+*Note: An updated version of this code written for ARTIK Cloud is available [here](https://github.com/artikcloud/sample-iot-MonitorFlameTemp).*
+
 # Monitor Fire and Temperature Using an Arduino, Raspberry Pi and SAMI
 
 Build a fire and temperature monitoring system using SAMI, off-the-shelf sensors, Arduino Uno, Raspberry Pi, and an Android application. 
